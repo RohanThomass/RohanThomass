@@ -6,13 +6,13 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 📊 Aspiring Data Scientist
-- 🌱 Currently learning Data Science, Machine Learning, and Statistics
-- 🐍 Working with Python, SQL, Pandas, NumPy, and Scikit-learn
-- 📈 Passionate about turning data into actionable insights
-- 🚀 Building projects to strengthen my skills
+-  Aspiring Data Scientist
+-  Currently learning Data Science, Machine Learning, and Statistics
+-  Working with Python, SQL, Pandas, NumPy, and Scikit-learn
+-  Passionate about turning data into actionable insights
+-  Building projects to strengthen my skills
 
 ---
 
